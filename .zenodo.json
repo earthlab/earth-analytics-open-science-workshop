@@ -1,0 +1,18 @@
+{
+  "creators": [
+    {
+      "affiliation": "Earth Lab, University of Colorado - Boulder",
+      "name": "Wasser, Leah",
+      "orcid": "0000-0002-8177-6550"
+    },
+    {
+      "name": "Zimmerman, Naupaka"
+    }
+  ],
+  "keywords": [
+    "open science",
+    "reproducibility",
+    "earth data science"
+  ],
+  "license": "CC-BY-NC-ND-4.0"
+}
