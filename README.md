@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/186890307.svg)](https://zenodo.org/badge/latestdoi/186890307)
+
 # Earth Analytics Workshop Materials - Introduction to Open Science
 
 This workshop on Introduction to Open Science is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
